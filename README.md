@@ -41,103 +41,106 @@ I have a high level of adaptability and am comfortable working both independentl
 
 ## 📈 Skills Overview
 
-<div style="display: flex; justify-content: space-between;">
+<table>
+  <tr>
+    <!-- Primera columna: Tabla de Technical Skills y TS Level -->
+    <td style="vertical-align: top;">
+      <table>
+        <thead>
+          <tr>
+            <th>Technical Skills</th>
+            <th>TS Level</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Python</td>
+            <td>⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>R</td>
+            <td>⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>SQL</td>
+            <td>⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Java</td>
+            <td>⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>C</td>
+            <td>⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Docker</td>
+            <td>⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>HTML, CSS, JavaScript</td>
+            <td>⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>IoT Technologies</td>
+            <td>⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>SAP</td>
+            <td>⭐</td>
+          </tr>
+          <tr>
+            <td>Git</td>
+            <td>⭐⭐⭐⭐</td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
 
-  <!-- Tabla 1 -->
-  <table style="margin-right: 50px;">
-    <thead>
-      <tr>
-        <th>Technical Skills</th>
-        <th>TS Level</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Python</td>
-        <td>⭐⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>R</td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>SQL</td>
-        <td>⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>Java</td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>C</td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>Docker</td>
-        <td>⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>HTML, CSS, JavaScript</td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>IoT Technologies</td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>SAP</td>
-        <td>⭐</td>
-      </tr>
-      <tr>
-        <td>Git</td>
-        <td>⭐⭐⭐⭐</td>
-      </tr>
-    </tbody>
-  </table>
-
-  <!-- Tabla 2 -->
-  <table>
-    <thead>
-      <tr>
-        <th>Personal Skills</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Spanish (Native)</td>
-      </tr>
-      <tr>
-        <td>Catalan (Native)</td>
-      </tr>
-      <tr>
-        <td>English (Advanced)</td>
-      </tr>
-      <tr>
-        <td>German (Basic)</td>
-      </tr>
-      <tr>
-        <td>Italian (Basic)</td>
-      </tr>
-      <tr>
-        <td>Portuguese (Basic)</td>
-      </tr>
-      <tr>
-        <td>Teamwork</td>
-      </tr>
-      <tr>
-        <td>Problem-solving</td>
-      </tr>
-      <tr>
-        <td>Self-learning</td>
-      </tr>
-      <tr>
-        <td>Laboratory skills</td>
-      </tr>
-    </tbody>
-  </table>
-
-</div>
-
+    <!-- Segunda columna: Tabla de Personal Skills -->
+    <td style="vertical-align: top; padding-left: 30px;">
+      <table>
+        <thead>
+          <tr>
+            <th>Personal Skills</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Spanish (Native)</td>
+          </tr>
+          <tr>
+            <td>Catalan (Native)</td>
+          </tr>
+          <tr>
+            <td>English (Advanced)</td>
+          </tr>
+          <tr>
+            <td>German (Basic)</td>
+          </tr>
+          <tr>
+            <td>Italian (Basic)</td>
+          </tr>
+          <tr>
+            <td>Portuguese (Basic)</td>
+          </tr>
+          <tr>
+            <td>Teamwork</td>
+          </tr>
+          <tr>
+            <td>Problem-solving</td>
+          </tr>
+          <tr>
+            <td>Self-learning</td>
+          </tr>
+          <tr>
+            <td>Laboratory skills</td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ## 📬 Contact
 
