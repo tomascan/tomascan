@@ -42,18 +42,19 @@ I have a high level of adaptability and am comfortable working both independentl
 
 ## 📈 Skills Overview
 
-| Technical Skills            | TS Level                |   | Personal Skills         |
-|-----------------------------|-------------------------|---|-------------------------|
-| Python                      | ⭐⭐⭐⭐⭐                  |   | Spanish (Native)        |
-| R                           | ⭐⭐⭐                    |   | Catalan (Native)        |
-| SQL                         | ⭐⭐⭐⭐                   |   | English (Advanced)      |
-| Java                        | ⭐⭐⭐                    |   | German (Basic)          |
-| C                           | ⭐⭐⭐                    |   | Italian (Basic)         |
-| Docker                      | ⭐⭐⭐⭐                   |   | Portuguese (Basic)      |
-| HTML, CSS, JavaScript        | ⭐⭐⭐                    |   | Teamwork                |
-| IoT Technologies            | ⭐⭐⭐                    |   | Problem-solving         |
-| SAP                         | ⭐                      |   | Self-learning           |
-| Git                         | ⭐⭐⭐⭐                   |   | Laboratory skills       |
+| Technical Skills            | TS Level                |          | Personal Skills         |
+|-----------------------------|-------------------------|----------|-------------------------|
+| Python                      | ⭐⭐⭐⭐⭐                  |          | Spanish (Native)        |
+| R                           | ⭐⭐⭐                    |          | Catalan (Native)        |
+| SQL                         | ⭐⭐⭐⭐                   |          | English (Advanced)      |
+| Java                        | ⭐⭐⭐                    |          | German (Basic)          |
+| C                           | ⭐⭐⭐                    |          | Italian (Basic)         |
+| Docker                      | ⭐⭐⭐⭐                   |          | Portuguese (Basic)      |
+| HTML, CSS, JavaScript        | ⭐⭐⭐                    |          | Teamwork                |
+| IoT Technologies            | ⭐⭐⭐                    |          | Problem-solving         |
+| SAP                         | ⭐                      |          | Self-learning           |
+| Git                         | ⭐⭐⭐⭐                   |          | Laboratory skills       |
+
 
 ## 📬 Contact
 
