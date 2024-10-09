@@ -41,7 +41,9 @@ I have a high level of adaptability and am comfortable working both independentl
 
 ## 📈 Skills Overview
 
-<div style="display: flex; justify-content: space-between;">
+<table>
+  <tr>
+    <td>
 
   <table>
     <thead>
@@ -94,6 +96,9 @@ I have a high level of adaptability and am comfortable working both independentl
     </tbody>
   </table>
 
+    </td>
+    <td>
+
   <table>
     <thead>
       <tr>
@@ -134,7 +139,9 @@ I have a high level of adaptability and am comfortable working both independentl
     </tbody>
   </table>
 
-</div>
+    </td>
+  </tr>
+</table>
 
 
 ## 📬 Contact
