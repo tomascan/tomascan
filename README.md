@@ -12,40 +12,22 @@ I am passionate about applying **Data Analysis**, **Data Science**, and **SAP** 
 
 Here are some of the key skills I have acquired during my academic journey:
 
-<table>
-  <tr>
-    <td>
-      <h3>Programming Languages:</h3>
-      <ul>
-        <li>![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)</li>
-        <li>![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logo=postgresql)</li>
-        <li>![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)</li>
-        <li>![C](https://img.shields.io/badge/-C-informational?style=flat&logo=c)</li>
-        <li>![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)</li>
-        <li>![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)</li>
-        <li>![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)</li>
-      </ul>
-    </td>
-    <td>
-      <h3>Tools and Frameworks:</h3>
-      <ul>
-        <li>![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)</li>
-        <li>![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)</li>
-        <li>![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)</li>
-        <li>![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)</li>
-        <li>![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)</li>
-        <li>![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)</li>
-        <li>![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)</li>
-        <li>![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)</li>
-        <li>![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn)</li>
-        <li>![Matplotlib](https://img.shields.io/badge/-Matplotlib-2C5BB4?style=flat&logo=matplotlib)</li>
-        <li>![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python)</li>
-        <li>![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)</li>
-        <li>![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Programming Languages | Tools and Frameworks |
+|-----------------------|----------------------|
+| ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) |
+| ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logo=postgresql) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) |
+| ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java) | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) |
+| ![C](https://img.shields.io/badge/-C-informational?style=flat&logo=c) | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) |
+|  | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy) |
+|  | ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn) |
+|  | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-2C5BB4?style=flat&logo=matplotlib) |
+|  | ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python) |
+|  | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium) |
+|  | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis) |
+
     
 ## 🌟 Areas of Interest
 
