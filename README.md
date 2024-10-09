@@ -39,102 +39,21 @@ I am eager to apply my skills in **Data Analysis**, **Data Visualization**, and 
 
 I have a high level of adaptability and am comfortable working both independently and in team environments. My **self-learning skills** are highly developed, allowing me to quickly acquire new tools and technologies.
 
+
 ## 📈 Skills Overview
 
-<div style="display: flex; justify-content: space-between;">
-
-  <table style="margin-right: 20px;">
-    <thead>
-      <tr>
-        <th>Technical Skills</th>
-        <th>TS Level</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Python</td>
-        <td>⭐⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>R</td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>SQL</td>
-        <td>⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>Java</td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>C</td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>Docker</td>
-        <td>⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>HTML, CSS, JavaScript</td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>IoT Technologies</td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>SAP</td>
-        <td>⭐</td>
-      </tr>
-      <tr>
-        <td>Git</td>
-        <td>⭐⭐⭐⭐</td>
-      </tr>
-    </tbody>
-  </table>
-
-  <table style="margin-left: 20px;">
-    <thead>
-      <tr>
-        <th>Personal Skills</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Spanish (Native)</td>
-      </tr>
-      <tr>
-        <td>Catalan (Native)</td>
-      </tr>
-      <tr>
-        <td>English (Advanced)</td>
-      </tr>
-      <tr>
-        <td>German (Basic)</td>
-      </tr>
-      <tr>
-        <td>Italian (Basic)</td>
-      </tr>
-      <tr>
-        <td>Portuguese (Basic)</td>
-      </tr>
-      <tr>
-        <td>Teamwork</td>
-      </tr>
-      <tr>
-        <td>Problem-solving</td>
-      </tr>
-      <tr>
-        <td>Self-learning</td>
-      </tr>
-      <tr>
-        <td>Laboratory skills</td>
-      </tr>
-    </tbody>
-  </table>
-
-</div>
+| Technical Skills            | TS Level                |   | Personal Skills         |
+|-----------------------------|-------------------------|---|-------------------------|
+| Python                      | ⭐⭐⭐⭐⭐                  |   | Spanish (Native)        |
+| R                           | ⭐⭐⭐                    |   | Catalan (Native)        |
+| SQL                         | ⭐⭐⭐⭐                   |   | English (Advanced)      |
+| Java                        | ⭐⭐⭐                    |   | German (Basic)          |
+| C                           | ⭐⭐⭐                    |   | Italian (Basic)         |
+| Docker                      | ⭐⭐⭐⭐                   |   | Portuguese (Basic)      |
+| HTML, CSS, JavaScript        | ⭐⭐⭐                    |   | Teamwork                |
+| IoT Technologies            | ⭐⭐⭐                    |   | Problem-solving         |
+| SAP                         | ⭐                      |   | Self-learning           |
+| Git                         | ⭐⭐⭐⭐                   |   | Laboratory skills       |
 
 ## 📬 Contact
 
