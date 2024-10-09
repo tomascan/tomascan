@@ -41,33 +41,101 @@ I have a high level of adaptability and am comfortable working both independentl
 
 ## 📈 Skills Overview
 
-| Technical Skills            | TS Level                |
-|-----------------------------|-------------------------|
-| Python                      | ⭐⭐⭐⭐⭐                  |
-| R                           | ⭐⭐⭐                    |
-| SQL                         | ⭐⭐⭐⭐                   |
-| Java                        | ⭐⭐⭐                    |
-| C                           | ⭐⭐⭐                    |
-| Docker                      | ⭐⭐⭐⭐                   |
-| HTML, CSS, JavaScript        | ⭐⭐⭐                    |
-| IoT Technologies            | ⭐⭐⭐                    |
-| SAP                         | ⭐                      |
-| Git                         | ⭐⭐⭐⭐                   |
+<div style="display: flex; justify-content: space-between;">
 
-&nbsp;
+  <table>
+    <thead>
+      <tr>
+        <th>Technical Skills</th>
+        <th>TS Level</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Python</td>
+        <td>⭐⭐⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>R</td>
+        <td>⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>SQL</td>
+        <td>⭐⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>Java</td>
+        <td>⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>C</td>
+        <td>⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>Docker</td>
+        <td>⭐⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>HTML, CSS, JavaScript</td>
+        <td>⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>IoT Technologies</td>
+        <td>⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>SAP</td>
+        <td>⭐</td>
+      </tr>
+      <tr>
+        <td>Git</td>
+        <td>⭐⭐⭐⭐</td>
+      </tr>
+    </tbody>
+  </table>
 
-| Personal Skills         |
-|-------------------------|
-| Spanish (Native)        |
-| Catalan (Native)        |
-| English (Advanced)      |
-| German (Basic)          |
-| Italian (Basic)         |
-| Portuguese (Basic)      |
-| Teamwork                |
-| Problem-solving         |
-| Self-learning           |
-| Laboratory skills       |
+  <table>
+    <thead>
+      <tr>
+        <th>Personal Skills</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Spanish (Native)</td>
+      </tr>
+      <tr>
+        <td>Catalan (Native)</td>
+      </tr>
+      <tr>
+        <td>English (Advanced)</td>
+      </tr>
+      <tr>
+        <td>German (Basic)</td>
+      </tr>
+      <tr>
+        <td>Italian (Basic)</td>
+      </tr>
+      <tr>
+        <td>Portuguese (Basic)</td>
+      </tr>
+      <tr>
+        <td>Teamwork</td>
+      </tr>
+      <tr>
+        <td>Problem-solving</td>
+      </tr>
+      <tr>
+        <td>Self-learning</td>
+      </tr>
+      <tr>
+        <td>Laboratory skills</td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+
 
 ## 📬 Contact
 
