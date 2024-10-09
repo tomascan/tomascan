@@ -58,7 +58,7 @@ I have a high level of adaptability and am comfortable working both independentl
 ## 📬 Contact
 
 Feel free to connect with me:
-- [LinkedIn](linkedin.com/in/tomás-cantón-cordeiro-008035202)
+- [LinkedIn]([linkedin.com/in/tomás-cantón-cordeiro-008035202](https://www.linkedin.com/in/tom%C3%A1s-cant%C3%B3n-cordeiro-008035202/))
 - [GitHub](https://github.com/tomascan)
 
 I’m always open to discuss new opportunities, collaborations, or interesting projects!
