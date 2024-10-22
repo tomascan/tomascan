@@ -6,8 +6,6 @@ I am Tomás Cantón, and I completed a double degree in **Biotechnology** and **
 
 I have experience conducting a **systematic review** on osteoporosis in collaboration with the **University of Turku**, where I enhanced my **data analysis** skills using Python. At **JLM Innovations GmbH** in Germany, I worked on **IoT projects**, gaining hands-on experience with **ESP32 boards**, **C programming**, and frontend development using **HTML**, **CSS** and **JavaScript**. During my internship at **Hospital Son Espases** in Mallorca, I focused on **immunological research**, acquiring skills in **flow cytometry**, **antibody detection**, and laboratory techniques in a clinical setting.
 
-I am passionate about applying **Data Analysis**, **Data Science**, and **SAP** solutions in industries with a **biotechnological** focus, whether in clinical, industrial, or pharmaceutical environments. My goal is to leverage my knowledge to make meaningful contributions in these sectors through data-driven solutions and technological innovation.
-
 ## 🛠️ Skills
 
 Here are some of the key skills I have acquired during my academic journey:
